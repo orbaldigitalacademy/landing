@@ -16,13 +16,14 @@ body, html {
     background-repeat: no-repeat;
     height: 100%;
     max-width: 100%;
+    color: goldenrod;
     text-align: center;
     padding: 50px 5px;
 }
 
 .hero-content {
     margin-top: 30px;
-    color: wheat;
+    color: goldenrod;
     max-width: 600px;
     margin: 0 auto;
 }
