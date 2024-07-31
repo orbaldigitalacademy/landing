@@ -17,7 +17,6 @@ body, html {
     height: 100%;
     max-width: 100%;
     color: goldenrod;
-    text-align: center;
     padding: 50px 5px;
 }
 
@@ -28,11 +27,17 @@ body, html {
     margin: 0 auto;
 }
 
-h3, h2 {
+h2 {
     font-size: 3em;
     margin-bottom: 1.5em;
+    text-align: left;
 }
 
+h2 {
+    font-size: 3em;
+    margin-bottom: 1.5em;
+    text-align: center;
+}
 .date {
     text-align: center;
     list-style-type: none;
